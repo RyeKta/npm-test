@@ -20,7 +20,5 @@
     "url": "https://github.com/RyeKta/npm-test/issues"
   },
   "homepage": "https://github.com/RyeKta/npm-test#readme",
-  "dependencies": {
-    "colors": "^1.1.2"
-  }
+  "dependencies": {}
 }
