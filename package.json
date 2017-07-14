@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/RyeKta/npm-test/issues"
   },
-  "homepage": "https://github.com/RyeKta/npm-test#readme"
+  "homepage": "https://github.com/RyeKta/npm-test#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
